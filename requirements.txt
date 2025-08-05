@@ -1,8 +1,13 @@
+# Librerías principales de ciencia de datos
 pandas
 numpy
 matplotlib
-scikit-learn
-tensorflow
-transformers
 wordcloud
 nltk
+
+# Modelos clásicos de machine learning
+scikit-learn
+
+# Deep learning y procesamiento de lenguaje natural
+tensorflow
+transformers
